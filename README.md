@@ -1,4 +1,5 @@
-### Hi there 👋
+### Vous trouverez ici toutes les annales connus sur toutes les matière de la licence INFO L2 de Lyon 1
+### Ce compte est un 2nd compte de @Virgile-Broillet, jetez y un oeils si vous voulez voir plus de projets
 
 <!--
 **Annales-Univ-Lyon1/Annales-Univ-Lyon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
